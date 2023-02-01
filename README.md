@@ -2,7 +2,7 @@
 
 - 🏫 Cursando Ciência da Computação - IFSP Salto
 - ⌚ 3/8 semestre
-- 💼 Procurando uma oportuinidade de estágio
+- 💼 Procurando uma oportunidade de estágio
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Alex-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
