@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Alex Nanni
 
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas - IFSP Campinas
-- 💼 Procurando uma oportunidade de estágio
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Alex-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
